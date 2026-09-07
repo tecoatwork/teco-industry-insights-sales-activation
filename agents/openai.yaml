@@ -1,0 +1,4 @@
+interface:
+  display_name: "Industry Insights & Sales Activation"
+  short_description: "Turn verified market signals into B2B sales actions"
+  default_prompt: "Research my industry, company, and products; identify commercial opportunities; and convert verified insights into SCRP-based outreach and LinkedIn content."
